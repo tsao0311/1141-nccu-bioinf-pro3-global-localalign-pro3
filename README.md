@@ -1,6 +1,6 @@
 # pro3. perform global|local alignment
-* your name
-* student ID
+* 曹柏泓
+* 113753108
 
 ## Description
 
